@@ -126,3 +126,6 @@ lidarts/translations/messages.pot
 # Testing things
 /testing
 flask_monitoringdashboard.db
+
+# misc
+migrations/
